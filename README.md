@@ -1,7 +1,3 @@
-# dogstatus.github.io
-A website that hosts dog status rankings.
-
-
 # <img alt="dog" src="https://dogstatus.github.io/logo.png" height="60"> dogstatus
 
 [![Version](https://img.shields.io/badge/version-woof-blueviolet?style=flat-square)](https://dogstatus.github.io)
