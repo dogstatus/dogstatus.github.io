@@ -8,7 +8,7 @@
 dogstatus is a website used to host dog status rankings. 
 
 - **Website:** [https://dogstatus.github.io](https://dogstatus.github.io)
-- **Source Repo:** [https://github.com/dogstatus/dogstatus.github.io](https://github.com/dogstatus/dogstatus.github.io)
+- **Rankings:** [https://dogstatus.github.io/rankings](https://dogstatus.github.io/rankings)
 - **Dog Status Application:** [Here](https://github.com/dogstatus/dogstatus.github.io/issues/1)
 
 ##### License
